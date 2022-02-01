@@ -4,9 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6c80e92-23aa-463e-b60a-0ed9b595be61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/padroesdeprojetos/SingletonLazyHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/padroesdeprojetos/Test.java" afterDir="false" />
+    <list default="true" id="a6c80e92-23aa-463e-b60a-0ed9b595be61" name="Changes" comment="add arquivos de projeto finaL GFT Start #3, versão 1.0.0">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/facade/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/strategy/Comportamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/strategy/ComportamentoAgressivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/strategy/ComportamentoDefensivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/strategy/ComportamentoNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/strategy/Robo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsistema1/crm/CrmService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsistema2/cep/CepApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/padroesdeprojetos/SingletonEager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/singleton/SingletonEager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/padroesdeprojetos/SingletonLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/singleton/SingletonLazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/padroesdeprojetos/SingletonLazyHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/singleton/SingletonLazyHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/padroesdeprojetos/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -31,6 +48,18 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectId" id="24UCce2YysdPGdHuVALfMGDcVgk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,6 +69,28 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dio.gof.Test" />
+      <module name="padroesdeprojetojava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dio.gof.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,6 +101,14 @@
       <option name="presentableId" value="Default" />
       <updated>1643675860665</updated>
     </task>
+    <task id="LOCAL-00001" summary="add arquivos de projeto finaL GFT Start #3, versão 1.0.0">
+      <created>1643678369115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643678369115</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,5 +121,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add arquivos de projeto finaL GFT Start #3, versão 1.0.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="add arquivos de projeto finaL GFT Start #3, versão 1.0.0" />
   </component>
 </project>

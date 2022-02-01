@@ -1,4 +1,4 @@
-package com.dio.padroesdeprojetos;
+package com.dio.gof.singleton;
 
     /**
      * SingletonEager "Lazy Holder"
