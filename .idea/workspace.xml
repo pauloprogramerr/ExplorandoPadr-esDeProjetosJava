@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6c80e92-23aa-463e-b60a-0ed9b595be61" name="Changes" comment="add arquivos de projeto finaL GFT Start #3, versão 1.0.0">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/facade/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/strategy/Comportamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/strategy/ComportamentoAgressivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/strategy/ComportamentoDefensivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/strategy/ComportamentoNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/strategy/Robo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsistema1/crm/CrmService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/subsistema2/cep/CepApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/padroesdeprojetos/SingletonEager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/singleton/SingletonEager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/padroesdeprojetos/SingletonLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/singleton/SingletonLazy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/padroesdeprojetos/SingletonLazyHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/singleton/SingletonLazyHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/padroesdeprojetos/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="a6c80e92-23aa-463e-b60a-0ed9b595be61" name="Changes" comment="add arquivos de projeto finaL GFT Start #3, versão 1.0.0 segunda parte" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643678369115</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add arquivos de projeto finaL GFT Start #3, versão 1.0.0 segunda parte">
+      <created>1643758732763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643758732763</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add arquivos de projeto finaL GFT Start #3, versão 1.0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="add arquivos de projeto finaL GFT Start #3, versão 1.0.0" />
+    <MESSAGE value="add arquivos de projeto finaL GFT Start #3, versão 1.0.0 segunda parte" />
+    <option name="LAST_COMMIT_MESSAGE" value="add arquivos de projeto finaL GFT Start #3, versão 1.0.0 segunda parte" />
   </component>
 </project>
