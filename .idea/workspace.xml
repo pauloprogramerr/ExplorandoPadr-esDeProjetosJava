@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6c80e92-23aa-463e-b60a-0ed9b595be61" name="Changes" comment="Atualização de arquivos do projeto, ainda em andamento.">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/gof/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dio/gof/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/gof/controller/ClienteRestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/gof/model/service/ClienteServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/gof/model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/model/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/gof/model/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/model/Endereco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643766136350</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Atualização de arquivos do projeto, ainda em andamento.">
+      <created>1643825251967</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643825251967</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
