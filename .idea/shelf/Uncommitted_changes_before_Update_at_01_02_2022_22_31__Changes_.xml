@@ -1,0 +1,74 @@
+<changelist name="Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]" date="1643765500702" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 01/02/2022 22:31 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/com/dio/gof/model/service/ClienteServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]/ClienteServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/dio/gof/strategy/Robo.class" />
+    <option name="AFTER_PATH" value="target/classes/com/dio/gof/strategy/Robo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]/Robo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/com/dio/gof/model/Endereco.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]/Endereco.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/dio/gof/Test.class" />
+    <option name="AFTER_PATH" value="target/classes/com/dio/gof/Test.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]/Test.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/com/dio/gof/controller/ClienteRestController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]/ClienteRestController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/dio/gof/facade/Facade.class" />
+    <option name="AFTER_PATH" value="target/classes/com/dio/gof/facade/Facade.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]/Facade.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/com/dio/gof/model/Cliente.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]/Cliente.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/com/dio/gof/model/ClienteRepository.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]/ClienteRepository.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/com/dio/gof/model/EnderecoRepository.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]/EnderecoRepository.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/com/dio/gof/Application.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]/Application.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/com/dio/gof/model/service/ViaCepService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]/ViaCepService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/subsistema2/cep/CepApi.class" />
+    <option name="AFTER_PATH" value="target/classes/subsistema2/cep/CepApi.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]/CepApi.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/com/dio/gof/model/service/ClienteService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]/ClienteService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/subsistema1/crm/CrmService.class" />
+    <option name="AFTER_PATH" value="target/classes/subsistema1/crm/CrmService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_02_2022_22_31_[Changes]/CrmService.class" />
+  </binary>
+</changelist>
