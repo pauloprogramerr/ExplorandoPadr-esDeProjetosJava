@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6c80e92-23aa-463e-b60a-0ed9b595be61" name="Changes" comment="add arquivos">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/controller/ClienteRestController.java" afterDir="false" />
+    <list default="true" id="a6c80e92-23aa-463e-b60a-0ed9b595be61" name="Changes" comment="atualizando os arquivos do projeto, reajustes teram de eser feitos">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/gof/model/ClienteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/model/ClienteRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/gof/model/EnderecoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/model/EnderecoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/gof/model/service/ClienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/service/ClienteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/gof/model/service/ViaCepService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/service/ViaCepService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/gof/model/service/ipml/ClienteServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/service/ipml/ClienteServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/gof/controller/ClienteRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/controller/ClienteRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/gof/service/ClienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/service/ClienteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dio/gof/service/ViaCepService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dio/gof/service/ViaCepService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/gof/model/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dio/gof/model/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/gof/model/Endereco.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dio/gof/model/Endereco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/gof/model/service/ClienteService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dio/gof/model/service/ViaCepService.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643826471977</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="atualizando os arquivos do projeto">
+      <created>1643902817968</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1643902817968</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +197,8 @@
     <MESSAGE value="add arquivos de projeto finaL GFT Start #3, versão 1.0.0" />
     <MESSAGE value="add arquivos de projeto finaL GFT Start #3, versão 1.0.0 segunda parte" />
     <MESSAGE value="Atualização de arquivos do projeto, ainda em andamento." />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização de arquivos do projeto, ainda em andamento." />
+    <MESSAGE value="atualizando os arquivos do projeto" />
+    <MESSAGE value="atualizando os arquivos do projeto, reajustes teram de eser feitos" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizando os arquivos do projeto, reajustes teram de eser feitos" />
   </component>
 </project>
