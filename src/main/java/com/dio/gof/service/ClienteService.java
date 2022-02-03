@@ -1,4 +1,4 @@
-package com.dio.gof.model.service;
+package com.dio.gof.service;
 
 import com.dio.gof.model.Cliente;
 

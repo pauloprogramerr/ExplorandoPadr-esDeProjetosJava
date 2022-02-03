@@ -1,7 +1,7 @@
-package com.dio.gof.model.service.ipml;
+package com.dio.gof.service.ipml;
 
 import com.dio.gof.model.Cliente;
-import com.dio.gof.model.service.ClienteService;
+import com.dio.gof.service.ClienteService;
 import org.springframework.stereotype.Service;
 
 /**
